@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VK Compose</string>
+    <string name="example_text_to_post_in_vk_app_with_compose">Example text to post in VK app with Compose</string>
+</resources>
